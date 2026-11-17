@@ -4,9 +4,8 @@
 
 ### I'm Kien
 
-- A Data Science & Artificial Intelligence Undergraduate.
-- 🌱 Currently studying in Hanoi, Vietnam.
+- MLE @Qualcomm.
+- I do research in my spare time
 - 💬 Ask me about my projects [here](mailto:kien.lt0620@gmail.com)
-- ⭐ Currently learning about LLMs.
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
